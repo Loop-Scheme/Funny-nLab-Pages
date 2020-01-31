@@ -5,7 +5,7 @@ This is a collection of funny/unusual nLab pages.
 ## Pages
 - From https://ncatlab.org/nlab/show/abstraction#centipede_mathematics:
     
-![Centipede mathematics](https://raw.githubusercontent.com/Loop-Scheme/Funny-nLab-Pages/master/images/perverse%20sheaves.png "Logo Title Text 1")
+![centipede mathematics](https://raw.githubusercontent.com/Loop-Scheme/Funny-nLab-Pages/master/images/centipede_mathematics.png "centipede mathematics")
 
 - https://ncatlab.org/nlab/show/red+herring+principle
 
@@ -13,4 +13,6 @@ This is a collection of funny/unusual nLab pages.
 Funny parts in italics
 
 - From https://ncatlab.org/nlab/show/perverse+sheaf:
-![Perverse sheaves](https://raw.githubusercontent.com/Loop-Scheme/Funny-nLab-Pages/master/images/perverse%20sheaves.png "Logo Title Text 1")
+![perverse sheaves](https://raw.githubusercontent.com/Loop-Scheme/Funny-nLab-Pages/master/images/perverse%20sheaves.png "perverse sheaves")
+- From https://ncatlab.org/nlab/show/moduli+stack+of+elliptic+curves:
+![moduli stack of elliptic curves](https://raw.githubusercontent.com/Loop-Scheme/Funny-nLab-Pages/master/images/M_ell.png "moduli stack of elliptic curves")
