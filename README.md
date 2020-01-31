@@ -3,7 +3,10 @@ This is a collection of funny/unusual nLab pages.
 
 
 ## Pages
-- https://ncatlab.org/nlab/show/abstraction#centipede_mathematics.
+- From https://ncatlab.org/nlab/show/abstraction#centipede_mathematics:
+    
+![Centipede mathematics](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 - https://ncatlab.org/nlab/show/red+herring+principle
 
 ## Excerpts
