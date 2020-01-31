@@ -7,7 +7,8 @@ This is a collection of funny/unusual nLab pages.
     
 ![centipede mathematics](https://raw.githubusercontent.com/Loop-Scheme/Funny-nLab-Pages/master/images/centipede_mathematics.png "centipede mathematics")
 
-- https://ncatlab.org/nlab/show/red+herring+principle
+- From https://ncatlab.org/nlab/show/red+herring+principle:
+![red herring principle](https://raw.githubusercontent.com/Loop-Scheme/Funny-nLab-Pages/master/images/red_herring.png "red herring principle")
 
 ## Funny Excerpts
 Funny parts in italics
