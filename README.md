@@ -2,14 +2,14 @@
 This is a collection of funny/unusual nLab pages.
 
 
-## Pages
+## Funny Pages
 - From https://ncatlab.org/nlab/show/abstraction#centipede_mathematics:
     
 ![centipede mathematics](https://raw.githubusercontent.com/Loop-Scheme/Funny-nLab-Pages/master/images/centipede_mathematics.png "centipede mathematics")
 
 - https://ncatlab.org/nlab/show/red+herring+principle
 
-## Excerpts
+## Funny Excerpts
 Funny parts in italics
 
 - From https://ncatlab.org/nlab/show/perverse+sheaf:
