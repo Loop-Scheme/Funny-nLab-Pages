@@ -13,4 +13,4 @@ This is a collection of funny/unusual nLab pages.
 Funny parts in italics
 
 - From https://ncatlab.org/nlab/show/perverse+sheaf:
-> To a space (typically with singularities) of a certain kind (there are variants) one associates a category whose objects are called **perverse sheaves**. _They are neither perverse nor sheaves_,
+![Perverse sheaves](https://raw.githubusercontent.com/Loop-Scheme/Funny-nLab-Pages/master/images/perverse%20sheaves.png "Logo Title Text 1")
