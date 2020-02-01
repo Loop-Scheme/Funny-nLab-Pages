@@ -1,4 +1,4 @@
-# Funny-nLab-Pages
+# Funny nLab Pages
 This is a collection of funny/unusual nLab pages.
 
 
