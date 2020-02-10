@@ -17,4 +17,4 @@ This is a collection of funny/unusual nLab pages.
 - From https://ncatlab.org/nlab/show/moduli+stack+of+elliptic+curves:
 ![moduli stack of elliptic curves](https://raw.githubusercontent.com/Loop-Scheme/Funny-nLab-Pages/master/images/M_ell.png "moduli stack of elliptic curves")
 - From https://ncatlab.org/nlab/show/Grothendieck+fibration:
-![Grothendieck construction](https://raw.githubusercontent.com/Loop-Scheme/Funny-nLab-Pages/master/images/M_ell.png "Grothendieck construction")
+![Grothendieck construction](https://raw.githubusercontent.com/Loop-Scheme/Funny-nLab-Pages/master/images/grothendieck_construction.png "Grothendieck construction")
