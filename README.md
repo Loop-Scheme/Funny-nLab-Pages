@@ -16,3 +16,5 @@ This is a collection of funny/unusual nLab pages.
 ![perverse sheaves](https://raw.githubusercontent.com/Loop-Scheme/Funny-nLab-Pages/master/images/perverse%20sheaves.png "perverse sheaves")
 - From https://ncatlab.org/nlab/show/moduli+stack+of+elliptic+curves:
 ![moduli stack of elliptic curves](https://raw.githubusercontent.com/Loop-Scheme/Funny-nLab-Pages/master/images/M_ell.png "moduli stack of elliptic curves")
+- From https://ncatlab.org/nlab/show/Grothendieck+fibration:
+![Grothendieck construction](https://raw.githubusercontent.com/Loop-Scheme/Funny-nLab-Pages/master/images/M_ell.png "Grothendieck construction")
